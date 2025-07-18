@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎿 GreenLeaf Store
 
 An elegant React web app for purchasing beautiful houseplants. Built with Vite, React, Redux Toolkit, and TailwindCSS.
@@ -40,3 +41,6 @@ npm run dev
 
 ## ✨ Author
 Github [Kijotaro](https://github.com/KIJOTARO)
+=======
+# greenleaf-store
+>>>>>>> 3ac2ffa7a4defddc3132576bf4da56d48dfc14b3
